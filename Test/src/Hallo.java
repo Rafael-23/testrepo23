@@ -3,6 +3,7 @@
  */
 public class Hallo {
     public static void main(String[] args){
-        System.out.print("Hallo, Github!");
+        System.out.println("Hallo, Github!");
+        System.out.println("Heyho!");
     }
 }
